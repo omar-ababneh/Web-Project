@@ -1,0 +1,5 @@
+
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å­°Åüÿÿÿÿ8åÌãî³/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õù¢‰ûÿÿÿÿ8ûåî³/
+c	java:S116"NRename this field "CID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ã¼Ô
+q	java:S116"PRename this field "CName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇšÚùÿÿÿÿ8…Áäî³/

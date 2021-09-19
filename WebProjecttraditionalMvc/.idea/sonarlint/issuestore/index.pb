@@ -1,0 +1,53 @@
+
+O
+src/main/webapp/WEB_INF/web.xml,c\f\cff0ceec615ad630602d17ef1a8eeddf3fb8a019
+V
+&src/main/webapp/views/ViewAddAdmin.jsp,3\7\37c824aa9adbe90e6fa617200041cde180f86114
+X
+(src/main/webapp/views/ViewAddStudent.jsp,6\3\63d52770549b95c03a42b0ea648ccd2bc3ebeed8
+[
++src/main/webapp/views/ViewAddInstructor.jsp,8\2\8294a504631862cefa03a2bc128967e67710fee3
+I
+src/main/java/Course.java,b\7\b70102039cf2dd6015a39d782dfb1dbac10bc613
+[
++src/main/webapp/views/InstructorCourses.jsp,b\8\b84b3e73b6c4be94763b4b0cf21b75a99cb039f7
+X
+(src/main/webapp/views/AdminOperation.jsp,e\d\ededcf4f135eacf9e186eeeba36285a63125b89d
+G
+src/main/java/User.java,c\c\cc4d6aa268d93c9fcea3805c8ed34ed49cede1a9
+S
+#src/main/java/InstructorAction.java,8\3\836ba0f45ae0b629918d571ea5396387ecf60c6e
+U
+%src/main/java/AddOperationAction.java,c\e\ce6878a501628779cd894c649a32755e2cce7660
+M
+src/main/java/Controller.java,3\9\39885d9c819d4528a05dbe012d0182f6fb58169f
+J
+src/main/java/Service.java,5\5\557d6989f8a742fa3d5201c7b9e6c2f73df0b524
+I
+src/main/java/Action.java,c\8\c819d4d60f81740cb9a937d14cc4a20cce21d2cd
+U
+%src/main/webapp/views/StudentInfo.jsp,4\a\4a965bd161e23d346b74653890fe73474d0d5d61
+[
++src/main/java/ViewOperationAdminAction.java,4\8\485ee51cda0e529e791664da03f0c34cec4acfcb
+O
+src/main/java/StudentGrade.java,f\e\feb6c031891e672f9f71d1c2c30d57f3a54cca7c
+N
+src/main/java/DataBaseDAO.java,e\0\e0d1840de27725df0ff6c73414908e2f5a87aff3
+F
+src/main/java/DAO.java,9\c\9c180380126a7c4c7e18e7de15f37cf2c6021f70
+N
+src/main/java/LoginAction.java,b\a\ba39afe1035a1fab5ab2895859b6469e47eb1f4c
+Q
+!src/main/java/ConnectionPool.java,3\a\3ae118507128040039030f4c174abe9f40b2aa00
+O
+src/main/java/LogoutAction.java,3\1\316c082cf3ff5808c541b39f852394c8c35fd407
+X
+(src/main/java/SaveChangeGradeAction.java,b\8\b8a06cc4893f0077ed2dc0d8318547431ca0fcb7
+U
+%src/main/java/ProcessLoginAction.java,8\8\8852933098b61dd9fc4150c0b2b65b7a0e0e2e55
+O
+src/main/webapp/views/Login.jsp,3\5\35776925b6d71dd7d7859209fee9d6aade17ed83
+X
+(src/main/webapp/views/StudentCourses.jsp,d\c\dca7026c4b1687c1a6afeaf2ecca31f2d1940097
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec

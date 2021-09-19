@@ -1,0 +1,6 @@
+
+jWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷Ãûÿÿÿÿ8¾ÛŞÛ´/
+a	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ8¾ÛŞÛ´/
+JWeb:PageWithoutTitleCheck"Add a <title> tag to this page.(Õ¶¯M8¾ÛŞÛ´/
+TWeb:TableWithoutCaptionCheck-" Add a description to this table.(¿‰˜ÿÿÿÿÿ8¾ÛŞÛ´/
+s Web:TableHeaderHasIdOrScopeCheck/";Add either an 'id' or a 'scope' attribute to this <th> tag.(ßı´ÿÿÿÿÿ8¾ÛŞÛ´/

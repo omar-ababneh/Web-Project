@@ -1,0 +1,8 @@
+
+jWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷Ãûÿÿÿÿ8ä¤¦Ş´/
+a	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ8ä¤¦Ş´/
+JWeb:PageWithoutTitleCheck"Add a <title> tag to this page.(Õ¶¯M8ä¤¦Ş´/
+XWeb:UnsupportedTagsInHtml5Check*"&Remove this deprecated "font" element.(Œ³£Ş8¬Ş€”¶/
+TWeb:TableWithoutCaptionCheck+" Add a description to this table.(«¯óÅşÿÿÿÿ8ä¤¦Ş´/
+s Web:TableHeaderHasIdOrScopeCheck-";Add either an 'id' or a 'scope' attribute to this <th> tag.(æÖ¨’ûÿÿÿÿ8ä¤¦Ş´/
+s Web:TableHeaderHasIdOrScopeCheck.";Add either an 'id' or a 'scope' attribute to this <th> tag.(§øÒ½øÿÿÿÿ8ä¤¦Ş´/

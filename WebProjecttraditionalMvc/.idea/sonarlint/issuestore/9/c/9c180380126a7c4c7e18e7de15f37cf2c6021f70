@@ -1,0 +1,50 @@
+
+b
+java:S2095["GUse try-with-resources or close this "Statement" in a "finally" clause.(ùÃ›ßúÿÿÿÿ
+e
+java:S2095&"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÿÆÒš
+e
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÿÆÒš
+b
+java:S2095J"GUse try-with-resources or close this "Statement" in a "finally" clause.(ùÃ›ßúÿÿÿÿ
+b
+java:S20956"GUse try-with-resources or close this "Statement" in a "finally" clause.(ùÃ›ßúÿÿÿÿ
+b
+java:S2095l"GUse try-with-resources or close this "Statement" in a "finally" clause.(ùÃ›ßúÿÿÿÿ
+J
+java:S3740!"/Provide the parametrized type for this generic.(ØÛÖşÿÿÿÿ
+E
+java:S3740W"/Provide the parametrized type for this generic.(å¥Îî
+E
+java:S3740W"/Provide the parametrized type for this generic.(å¥Îî
+j
+java:S1192p"ODefine a constant instead of duplicating this literal "  AND  Pass = " 3 times.(ññßşÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øûŸ’
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øûŸ’
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øûŸ’
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„èîŠúÿÿÿÿ
+k	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÛÖşÿÿÿÿ
+k	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Ş´‚ÿÿÿÿÿ
+f	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ…ô‘
+f	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÿğÑ
+f	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ñã°
+k	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ò–¢ùÿÿÿÿ
+k	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ÒÛğúÿÿÿÿ
+k	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ÒÛğúÿÿÿÿ
+f	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª“Íš
+k	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âšôÈûÿÿÿÿ
+k	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çĞÌ¯øÿÿÿÿ
+k	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çĞÌ¯øÿÿÿÿ
+f	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åìÏò
+f	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¥¢Ø
+f	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¥¢Ø
+f	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¥¢Ø
+k	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıùñãúÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Àùß
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øûŸ’
+>
+java:S1659G"#Declare "Score" on a separate line.(¯ÒÛğúÿÿÿÿ
+<
+java:S1659X"!Declare "CID" on a separate line.(çĞÌ¯øÿÿÿÿ
+c	java:S100h"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¥¢Ø

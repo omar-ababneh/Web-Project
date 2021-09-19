@@ -1,0 +1,56 @@
+
+e
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÿÆÒš
+e
+java:S2095M"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÿÆÒš
+c
+java:S2095ˆ"GUse try-with-resources or close this "Statement" in a "finally" clause.(ùÃ›ßúÿÿÿÿ
+b
+java:S2095^"GUse try-with-resources or close this "Statement" in a "finally" clause.(ùÃ›ßúÿÿÿÿ
+e
+java:S2095)"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÿÆÒš
+e
+java:S2095;"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÿÆÒš
+b
+java:S2095t"GUse try-with-resources or close this "Statement" in a "finally" clause.(ùÃ›ßúÿÿÿÿ
+c
+java:S2095›"GUse try-with-resources or close this "Statement" in a "finally" clause.(ùÃ›ßúÿÿÿÿ
+F
+java:S3740ƒ"/Provide the parametrized type for this generic.(å¥Îî
+F
+java:S3740ƒ"/Provide the parametrized type for this generic.(å¥Îî
+k
+java:S1192Ÿ"ODefine a constant instead of duplicating this literal "  AND  Pass = " 3 times.(ññßžþÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Šï‘
+k	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¢Àðùÿÿÿÿ
+f	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ªŸ¯
+f	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É æÑ
+f	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É æÑ
+f	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É æÑ
+k	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„èîŠúÿÿÿÿ
+f	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ˆ‚Î
+f	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÞÿðÑ
+f	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ñã°
+e	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßàé
+k	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ÒÛðúÿÿÿÿ
+k	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ÒÛðúÿÿÿÿ
+f	java:S117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª“Íš
+l	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê³üÿÿÿÿÿ
+l	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÐÌ¯øÿÿÿÿ
+l	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÐÌ¯øÿÿÿÿ
+g	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åìÏò
+g	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹òáµ
+g	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹òáµ
+g	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹òáµ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýùñãúÿÿÿÿ
+`
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(óÏÞ¡ùÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¥­‘ýÿÿÿÿ
+c	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ƒà
+h	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í‡¼Öÿÿÿÿÿ
+c	java:S100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É æÑ
+>
+java:S1659p"#Declare "Score" on a separate line.(¯ÒÛðúÿÿÿÿ
+=
+java:S1659„"!Declare "CID" on a separate line.(çÐÌ¯øÿÿÿÿ
+d	java:S100–"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹òáµ
